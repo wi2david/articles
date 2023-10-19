@@ -11,13 +11,13 @@
   
   O "Canny Edge Detection" é uma técnica renomada por sua capacidade de identificar bordas com precisão geométrica. Essa técnica é particularmente eficaz em imagens que apresentam formas poligonais euclidianas bem definidas, como retângulos, triângulos e círculos. O algoritmo Canny é capaz de detectar contornos complexos e fornecer informações detalhadas sobre a geometria das bordas, sendo a escolha ideal para imagens onde a precisão é crucial.
 
-  <img src="">
+  <img src="https://github.com/wi2david/articles/blob/main/Canny_vs_Thresholding/files/a1201c19-4897-4d75-ac1c-7f9c46106faa.jpg">
   
   <h2>Thresholding Detection: Simplificando a Complexidade</h2>
   
   Por outro lado, o "Thresholding Detection" é uma abordagem que simplifica a imagem, convertendo-a em uma representação binária de bordas. Essa técnica é particularmente útil em imagens com bordas mais suaves e transições de cores, nas quais a simplicidade é mais importante do que a precisão geométrica. Ao definir um limite de intensidade, o Thresholding Detection realça as diferenças de intensidade na imagem, destacando as áreas de interesse. Essa abordagem é uma escolha sólida quando se busca segmentar objetos ou áreas específicas.
 
-  <img src="">
+  <img src="https://github.com/wi2david/articles/blob/main/Canny_vs_Thresholding/files/9c06ea36-9877-42ff-8a66-2576657e112c.jpg">
   
   <h2>Conclusão</h2>
   
